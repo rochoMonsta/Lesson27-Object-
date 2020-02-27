@@ -45,6 +45,24 @@ namespace Lesson27
             Console.WriteLine(new Point().GetType());
             Console.WriteLine(person1.GetType());
 
+            //порівнюємо обєкти по їх значеннях
+            Console.WriteLine(Object.Equals(5, 5));
+            //порівнюємо обєкти по їх силках
+            Console.WriteLine(Object.ReferenceEquals(5, 5));
+            Console.WriteLine(Object.ReferenceEquals(person1, person1));
+
+
+            //в даному випадку person4 посилається на місце в памяті де знаходиться person3
+            //тому всі зміни які ми виконаємо з person4 будуть втіленні й для person3, щоб 
+            //цього уникнути потрібно використовувати клонування обєктів.
+            var person3 = new Person();
+            var person4 = person3;
+            //клонування обєктів.
+            person4 = person1.Clone();
+            Console.WriteLine(person4);
+            person3 = person1.DeepClone();
+            Console.WriteLine(person3);
+
             Console.ReadLine();
         }
         public static void SwitchNumbers(ref int number1, ref int number2)

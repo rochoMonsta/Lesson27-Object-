@@ -4,3 +4,9 @@ C:\Users\rocho\Desktop\Lesson27\bin\Debug\Lesson27.pdb
 C:\Users\rocho\Desktop\Lesson27\obj\Debug\Lesson27.csprojAssemblyReference.cache
 C:\Users\rocho\Desktop\Lesson27\obj\Debug\Lesson27.exe
 C:\Users\rocho\Desktop\Lesson27\obj\Debug\Lesson27.pdb
+G:\All\GitHub\Lesson27-Object-\Lesson27\bin\Debug\Lesson27.exe.config
+G:\All\GitHub\Lesson27-Object-\Lesson27\bin\Debug\Lesson27.exe
+G:\All\GitHub\Lesson27-Object-\Lesson27\bin\Debug\Lesson27.pdb
+G:\All\GitHub\Lesson27-Object-\Lesson27\obj\Debug\Lesson27.csprojAssemblyReference.cache
+G:\All\GitHub\Lesson27-Object-\Lesson27\obj\Debug\Lesson27.exe
+G:\All\GitHub\Lesson27-Object-\Lesson27\obj\Debug\Lesson27.pdb
